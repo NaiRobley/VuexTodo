@@ -1,4 +1,4 @@
-# newsfeed
+# VuexTodo
 
 To start:
 
@@ -9,7 +9,14 @@ $ npm install
 To develop:
 
 ```bash
-$ npm run dev```
+$ npm run dev
+```
+
+To run the application:
+
+```bash
+$ npm run start
+```
 
 To build for production:
 
@@ -22,7 +29,6 @@ To lint you code:
 ```bash
 $ npm run lint
 ```
-
 
 ---
 
